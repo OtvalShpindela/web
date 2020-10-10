@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d605e80e-3190-4aa6-9bcc-b1de70c6e592" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/etc/nginx/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1idkDtxIL2Tjm8uw1j2z3fQlZ5A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/etc" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kolkr\PycharmProjects\web\etc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kolkr\PycharmProjects\web" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d605e80e-3190-4aa6-9bcc-b1de70c6e592" name="Default Changelist" comment="" />
+      <created>1602244739984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602244739984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602329405209">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="734" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1602329405209" />
+    <state x="1694" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602327818812">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1694" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.30.2560.1050@0.30.2560.1050" timestamp="1602327818812" />
+    <state x="1798" y="452" key="Github.ShareDialog" timestamp="1602244809772">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1798" y="452" key="Github.ShareDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1602244809772" />
+    <state x="1731" y="252" key="Github.UntrackedFilesDialog" timestamp="1602244826524">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1731" y="252" key="Github.UntrackedFilesDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1602244826524" />
+  </component>
+</project>
