@@ -40,7 +40,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/etc" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,6 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602244739984</updated>
+      <workItem from="1602511518666" duration="152000" />
     </task>
     <task id="LOCAL-00001" summary="1 задание">
       <created>1602334905599</created>
@@ -121,6 +124,9 @@
     <option name="localTasksCounter" value="9" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -131,6 +137,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 задание" />
@@ -153,9 +160,13 @@
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
     <state x="1731" y="252" key="Github.UntrackedFilesDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1602244826524" />
-    <state x="232" y="291" key="Vcs.Push.Dialog.v2" timestamp="1602342240172">
+    <state x="781" y="199" key="SettingsEditor" timestamp="1602511671372">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="232" y="291" key="Vcs.Push.Dialog.v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602342240172" />
+    <state x="781" y="199" key="SettingsEditor/0.30.2560.1050@0.30.2560.1050" timestamp="1602511671372" />
+    <state x="232" y="291" key="Vcs.Push.Dialog.v2" timestamp="1602511614952">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="232" y="291" key="Vcs.Push.Dialog.v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602511614952" />
   </component>
 </project>
