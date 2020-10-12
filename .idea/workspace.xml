@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d605e80e-3190-4aa6-9bcc-b1de70c6e592" name="Default Changelist" comment="1 задание">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/etc/nginx.conf" afterDir="false" />
-    </list>
+    <list default="true" id="d605e80e-3190-4aa6-9bcc-b1de70c6e592" name="Default Changelist" comment="1 задание" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602342231461</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="вот">
+      <created>1602511730677</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602511730677</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1 задание">
+      <created>1602512109487</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602512109487</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +151,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="вот" />
     <MESSAGE value="1 задание" />
     <option name="LAST_COMMIT_MESSAGE" value="1 задание" />
   </component>
