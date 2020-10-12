@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602512109487</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1 задание">
+      <created>1602512336261</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602512336261</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,9 +183,13 @@
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
     <state x="781" y="199" key="SettingsEditor/0.30.2560.1050@0.30.2560.1050" timestamp="1602511671372" />
-    <state x="232" y="291" key="Vcs.Push.Dialog.v2" timestamp="1602511614952">
+    <state x="232" y="291" key="Vcs.Push.Dialog.v2" timestamp="1602512341837">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="232" y="291" key="Vcs.Push.Dialog.v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602511614952" />
+    <state x="232" y="291" key="Vcs.Push.Dialog.v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602512341837" />
+    <state x="1089" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602512091179">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1089" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602512091179" />
   </component>
 </project>
